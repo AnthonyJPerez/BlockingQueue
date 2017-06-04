@@ -90,3 +90,7 @@ fabric.properties
 *.orig
 
 # End of https://www.gitignore.io/api/git,c++,clion
+.idea/codeStyleSettings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/untitled.iml
