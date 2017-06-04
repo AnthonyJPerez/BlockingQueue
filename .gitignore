@@ -94,3 +94,5 @@ fabric.properties
 .idea/misc.xml
 .idea/modules.xml
 .idea/untitled.iml
+.idea/BlockingQueue.iml
+.idea/vcs.xml
